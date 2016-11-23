@@ -1,4 +1,4 @@
-````````_````````````````````````````````````````````````````````````````_````````###基于H5 websocket(Socket io),CSS3 Animation,node.js开发的一个实时弹幕Demo
+********************************基于H5 websocket(Socket io),CSS3 Animation,Node.js开发的一个实时弹幕系统*****************
 
 说明:
 通信:websocket
