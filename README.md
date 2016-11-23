@@ -1,4 +1,4 @@
-# Multimedia-Project
+# Multimedia-Project Online Video Play and Chat
 多媒体项目的视频播放实时弹幕功能和在线聊天功能
 
 运行的环境要求：
